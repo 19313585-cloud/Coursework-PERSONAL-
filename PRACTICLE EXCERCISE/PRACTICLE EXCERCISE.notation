@@ -217,7 +217,7 @@
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5NdOSLNLEfCpI-4S8PM2Tw"/>
         </children>
         <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_5NGo8LNLEfCpI-4S8PM2Tw"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5NdOQbNLEfCpI-4S8PM2Tw" x="334" y="652"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5NdOQbNLEfCpI-4S8PM2Tw" x="334" y="672"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_F4t_8LNMEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
         <children xmi:type="notation:DecorationNode" xmi:id="_F4t_8rNMEfCpI-4S8PM2Tw" type="UseCase_NameLabel_CN"/>
