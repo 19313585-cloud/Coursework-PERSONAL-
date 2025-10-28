@@ -153,4 +153,5 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_kpmakrNJEfCpI-4S8PM2Tw" name="participate in events" type="_npLY4LJ_EfCpI-4S8PM2Tw" association="_kpklYLNJEfCpI-4S8PM2Tw"/>
     <ownedEnd xmi:type="uml:Property" xmi:id="_kpnBoLNJEfCpI-4S8PM2Tw" type="_npEgoLJ-EfCpI-4S8PM2Tw" association="_kpklYLNJEfCpI-4S8PM2Tw"/>
   </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_7XFEkLP4EfCpI-4S8PM2Tw" name="Actor25"/>
 </uml:Model>

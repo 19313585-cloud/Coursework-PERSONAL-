@@ -266,6 +266,22 @@
     <element xmi:type="uml:Actor" href="PRACTICLE%20EXCERCISE.uml#_npEgoLJ-EfCpI-4S8PM2Tw"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_npHj8bJ-EfCpI-4S8PM2Tw" x="760" y="460"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_7XOOgLP4EfCpI-4S8PM2Tw" type="Actor_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_7XO1kLP4EfCpI-4S8PM2Tw" type="Actor_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7XPcoLP4EfCpI-4S8PM2Tw" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7XPcobP4EfCpI-4S8PM2Tw" type="Actor_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7XPcorP4EfCpI-4S8PM2Tw" x="20" y="100"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7XPco7P4EfCpI-4S8PM2Tw" type="Actor_QualifiedNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7XPcpLP4EfCpI-4S8PM2Tw" x="20" y="80"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7XPcpbP4EfCpI-4S8PM2Tw" type="Actor_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7XPcprP4EfCpI-4S8PM2Tw" y="15"/>
+    </children>
+    <element xmi:type="uml:Actor" href="PRACTICLE%20EXCERCISE.uml#_7XFEkLP4EfCpI-4S8PM2Tw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7XOOgbP4EfCpI-4S8PM2Tw" x="1001" y="306"/>
+  </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_VYU6kaLPEfCpI-4S8PM2Tw" name="diagram_compatibility_version" stringValue="1.4.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_VYU6kqLPEfCpI-4S8PM2Tw"/>
   <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_VYU6k6LPEfCpI-4S8PM2Tw" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
