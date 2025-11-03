@@ -14,7 +14,7 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_e61LlqLPEfCpI-4S8PM2Tw" type="Actor_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_e61Ll6LPEfCpI-4S8PM2Tw" y="15"/>
       </children>
-      <element xmi:type="uml:Actor" href="PRACTICLE%20EXCERCISE.uml#_e6wTEKLPEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Actor" href="Acitvity%20Diagram.uml#_e6wTEKLPEfCpI-4S8PM2Tw"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e6z9caLPEfCpI-4S8PM2Tw" x="100" y="40"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_TpWvILGoEfCpI-4S8PM2Tw" type="Actor_Shape" fontName="Arial">
@@ -30,7 +30,7 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_TpX9QbGoEfCpI-4S8PM2Tw" type="Actor_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_TpX9QrGoEfCpI-4S8PM2Tw" y="15"/>
       </children>
-      <element xmi:type="uml:Actor" href="PRACTICLE%20EXCERCISE.uml#_TpUS4LGoEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Actor" href="Acitvity%20Diagram.uml#_TpUS4LGoEfCpI-4S8PM2Tw"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TpWvIbGoEfCpI-4S8PM2Tw" x="100" y="240"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_YBudkLGoEfCpI-4S8PM2Tw" type="Actor_Shape" fontName="Arial">
@@ -46,7 +46,7 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_YBvEprGoEfCpI-4S8PM2Tw" type="Actor_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_YBvEp7GoEfCpI-4S8PM2Tw" y="15"/>
       </children>
-      <element xmi:type="uml:Actor" href="PRACTICLE%20EXCERCISE.uml#_YBsBULGoEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Actor" href="Acitvity%20Diagram.uml#_YBsBULGoEfCpI-4S8PM2Tw"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YBudkbGoEfCpI-4S8PM2Tw" x="120" y="460"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_bb9v0LGoEfCpI-4S8PM2Tw" type="Actor_Shape" fontName="Arial">
@@ -62,7 +62,7 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_bb-W4LGoEfCpI-4S8PM2Tw" type="Actor_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_bb-W4bGoEfCpI-4S8PM2Tw" y="15"/>
       </children>
-      <element xmi:type="uml:Actor" href="PRACTICLE%20EXCERCISE.uml#_bb6sgLGoEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Actor" href="Acitvity%20Diagram.uml#_bb6sgLGoEfCpI-4S8PM2Tw"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bb9v0bGoEfCpI-4S8PM2Tw" x="760" y="60"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_fEDQ0LGoEfCpI-4S8PM2Tw" type="Actor_Shape" fontName="Arial">
@@ -78,7 +78,7 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_fED35rGoEfCpI-4S8PM2Tw" type="Actor_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_fED357GoEfCpI-4S8PM2Tw" y="15"/>
       </children>
-      <element xmi:type="uml:Actor" href="PRACTICLE%20EXCERCISE.uml#_fEANgLGoEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Actor" href="Acitvity%20Diagram.uml#_fEANgLGoEfCpI-4S8PM2Tw"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fEDQ0bGoEfCpI-4S8PM2Tw" x="760" y="240"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_GICpwLGpEfCpI-4S8PM2Tw" type="Package_Shape" fontName="Arial">
@@ -100,7 +100,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_S7Ihw7GpEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S7IhxLGpEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_S60YsLGpEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_S60YsLGpEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S7HTobGpEfCpI-4S8PM2Tw" x="154" y="12"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_sjjtcLGpEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -113,7 +113,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_sjjtd7GpEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sjjteLGpEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_sjT10LGpEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_sjT10LGpEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sjjtcbGpEfCpI-4S8PM2Tw" x="154" y="112" width="168" height="61"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_wb0YcLGpEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -126,7 +126,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_wb1mk7GpEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wb1mlLGpEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_wbkg0LGpEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_wbkg0LGpEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wb0YcbGpEfCpI-4S8PM2Tw" x="134" y="272" height="66"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_3gGTgLGpEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -139,7 +139,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_3gG6k7GpEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3gG6lLGpEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_3f0msLGpEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_3f0msLGpEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3gGTgbGpEfCpI-4S8PM2Tw" x="174" y="352" width="161"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_kRaL0LJ_EfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -152,7 +152,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_kRay47J_EfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kRay5LJ_EfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_kRKUMLJ_EfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_kRKUMLJ_EfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kRaL0bJ_EfCpI-4S8PM2Tw" x="114" y="412" width="161"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_npbQgLJ_EfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -165,7 +165,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_npceorJ_EfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_npceo7J_EfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_npLY4LJ_EfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_npLY4LJ_EfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_npbQgbJ_EfCpI-4S8PM2Tw" x="154" y="572" width="161" height="61"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_yDArsLNJEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -178,7 +178,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_yDBSxLNJEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yDBSxbNJEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_yCrUgLNJEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_yCrUgLNJEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yDArsbNJEfCpI-4S8PM2Tw" x="354" y="12" width="121" height="61"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_b1g5ULNKEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -191,7 +191,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_b1hgY7NKEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b1hgZLNKEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_b1MwQLNKEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_b1MwQLNKEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b1g5UbNKEfCpI-4S8PM2Tw" x="234" y="212" width="121" height="61"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_zhlQkLNLEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -204,7 +204,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_zhl3o7NLEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zhl3pLNLEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_zhPSULNLEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_zhPSULNLEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zhlQkbNLEfCpI-4S8PM2Tw" x="14" y="652"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_5NdOQLNLEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -217,7 +217,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_5NdOR7NLEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5NdOSLNLEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_5NGo8LNLEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_5NGo8LNLEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5NdOQbNLEfCpI-4S8PM2Tw" x="334" y="652"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_F4t_8LNMEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -230,7 +230,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_F4unArNMEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F4unA7NMEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_F4R7ELNMEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_F4R7ELNMEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F4t_8bNMEfCpI-4S8PM2Tw" x="174" y="675"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_dbTggLNMEfCpI-4S8PM2Tw" type="UseCase_Shape_CN">
@@ -243,12 +243,12 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_dbTgh7NMEfCpI-4S8PM2Tw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dbTgiLNMEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:UseCase" href="PRACTICLE%20EXCERCISE.uml#_da534LNMEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:UseCase" href="Acitvity%20Diagram.uml#_da534LNMEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dbTggbNMEfCpI-4S8PM2Tw" x="194" y="492"/>
         </children>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GIDQ0rGpEfCpI-4S8PM2Tw"/>
       </children>
-      <element xmi:type="uml:Package" href="PRACTICLE%20EXCERCISE.uml#_GH-YULGpEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Package" href="Acitvity%20Diagram.uml#_GH-YULGpEfCpI-4S8PM2Tw"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GICpwbGpEfCpI-4S8PM2Tw" x="180" y="-120" width="501" height="781"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_npHj8LJ-EfCpI-4S8PM2Tw" type="Actor_Shape" fontName="Arial">
@@ -264,15 +264,15 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_npIyFLJ-EfCpI-4S8PM2Tw" type="Actor_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_npJZILJ-EfCpI-4S8PM2Tw" y="15"/>
       </children>
-      <element xmi:type="uml:Actor" href="PRACTICLE%20EXCERCISE.uml#_npEgoLJ-EfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Actor" href="Acitvity%20Diagram.uml#_npEgoLJ-EfCpI-4S8PM2Tw"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_npHj8bJ-EfCpI-4S8PM2Tw" x="760" y="460"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_VYU6kaLPEfCpI-4S8PM2Tw" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_VYU6kqLPEfCpI-4S8PM2Tw"/>
     <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_VYU6k6LPEfCpI-4S8PM2Tw" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
-      <owner xmi:type="uml:Model" href="PRACTICLE%20EXCERCISE.uml#_j7F14KLOEfCpI-4S8PM2Tw"/>
+      <owner xmi:type="uml:Model" href="Acitvity%20Diagram.uml#_j7F14KLOEfCpI-4S8PM2Tw"/>
     </styles>
-    <element xmi:type="uml:Model" href="PRACTICLE%20EXCERCISE.uml#_j7F14KLOEfCpI-4S8PM2Tw"/>
+    <element xmi:type="uml:Model" href="Acitvity%20Diagram.uml#_j7F14KLOEfCpI-4S8PM2Tw"/>
     <edges xmi:type="notation:Connector" xmi:id="_w3F9ELNHEfCpI-4S8PM2Tw" type="Association_Edge" source="_e6z9cKLPEfCpI-4S8PM2Tw" target="_S7HToLGpEfCpI-4S8PM2Tw">
       <children xmi:type="notation:DecorationNode" xmi:id="_w3IZULNHEfCpI-4S8PM2Tw" type="Association_NameLabel">
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_VuGhELNIEfCpI-4S8PM2Tw" name="IS_UPDATED_POSITION" booleanValue="true"/>
@@ -283,7 +283,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_w3IZU7NHEfCpI-4S8PM2Tw" x="2" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_w3F9EbNHEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_w13OALNHEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_w13OALNHEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_w3F9ErNHEfCpI-4S8PM2Tw" points="[120, 0, -643984, -643984]$[344, -40, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_w4568LNHEfCpI-4S8PM2Tw" id="(1.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_w4568bNHEfCpI-4S8PM2Tw" id="(0.0,0.5833333333333334)"/>
@@ -298,7 +298,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_zYYOE7NHEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_zYXnAbNHEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_zYTVkLNHEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_zYTVkLNHEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zYXnArNHEfCpI-4S8PM2Tw" points="[216, -111, 200, -136]$[216, -80, 200, -105]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zZEKkLNHEfCpI-4S8PM2Tw" id="(1.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zZEKkbNHEfCpI-4S8PM2Tw" id="(0.0,0.3770491803278688)"/>
@@ -313,7 +313,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_1s4nVrNHEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_1s4nUbNHEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_1sygsLNHEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_1sygsLNHEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1s4nUrNHEfCpI-4S8PM2Tw" points="[14, 8, -102, -118]$[314, 26, 198, -100]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1tjVsLNHEfCpI-4S8PM2Tw" id="(1.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1tj8wLNHEfCpI-4S8PM2Tw" id="(0.37037037037037035,0.0)"/>
@@ -328,7 +328,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_45589rNHEfCpI-4S8PM2Tw" y="-19"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_45588bNHEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_451EcLNHEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_451EcLNHEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_45588rNHEfCpI-4S8PM2Tw" points="[150, -109, 447, -255]$[-87, 55, 210, -91]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_46hA8LNHEfCpI-4S8PM2Tw" id="(1.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_46hA8bNHEfCpI-4S8PM2Tw" id="(0.0,0.3333333333333333)"/>
@@ -343,7 +343,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_gqGUk7NIEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_gqFtgbNIEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_gqBcELNIEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_gqBcELNIEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gqFtgrNIEfCpI-4S8PM2Tw" points="[12, 7, 23, -380]$[195, 296, 206, -91]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gqqVQLNIEfCpI-4S8PM2Tw" id="(1.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gqqVQbNIEfCpI-4S8PM2Tw" id="(0.0,0.3333333333333333)"/>
@@ -358,7 +358,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_it-34bNIEfCpI-4S8PM2Tw" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_it-Q0bNIEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_it7NgLNIEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_it7NgLNIEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_it-Q0rNIEfCpI-4S8PM2Tw" points="[150, 20, -643984, -643984]$[344, 420, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_iulU0LNIEfCpI-4S8PM2Tw" id="(1.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_iulU0bNIEfCpI-4S8PM2Tw" id="(0.12422360248447205,0.08196721311475409)"/>
@@ -373,7 +373,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_m2tAwrNIEfCpI-4S8PM2Tw" x="-1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_m2sZsbNIEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_m2nhMLNIEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_m2nhMLNIEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_m2sZsrNIEfCpI-4S8PM2Tw" points="[120, 300, -643984, -643984]$[360, -30, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_m3Ur0LNIEfCpI-4S8PM2Tw" id="(1.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_m3Ur0bNIEfCpI-4S8PM2Tw" id="(0.1282051282051282,0.8666666666666667)"/>
@@ -388,7 +388,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_1idqlrNIEfCpI-4S8PM2Tw" x="1" y="-19"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_1idqkbNIEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_1iZZILNIEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_1iZZILNIEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1idqkrNIEfCpI-4S8PM2Tw" points="[640, 20, -643984, -643984]$[502, 40, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1jJnELNIEfCpI-4S8PM2Tw" id="(0.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1jJnEbNIEfCpI-4S8PM2Tw" id="(1.0,0.32786885245901637)"/>
@@ -403,7 +403,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_5BqVUrNIEfCpI-4S8PM2Tw" y="-19"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_5BpuQbNIEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_5Bk1wLNIEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_5Bk1wLNIEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5BpuQrNIEfCpI-4S8PM2Tw" points="[-11, 0, 359, -293]$[-160, 204, 210, -89]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5CYHALNIEfCpI-4S8PM2Tw" id="(0.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5CYHAbNIEfCpI-4S8PM2Tw" id="(0.6211180124223602,0.0)"/>
@@ -418,7 +418,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_CSm8Q7NJEfCpI-4S8PM2Tw" y="-19"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_CSmVMbNJEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_CSfngLNJEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_CSfngLNJEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CSmVMrNJEfCpI-4S8PM2Tw" points="[-7, -111, 307, -476]$[-108, 269, 206, -96]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CTWjILNJEfCpI-4S8PM2Tw" id="(0.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CTWjIbNJEfCpI-4S8PM2Tw" id="(0.8695652173913043,0.0)"/>
@@ -433,7 +433,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_Il3qEbNJEfCpI-4S8PM2Tw" y="-19"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_Il3DAbNJEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_IlyxkLNJEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_IlyxkLNJEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Il3DArNJEfCpI-4S8PM2Tw" points="[660, 160, -643984, -643984]$[480, 309, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Imdf8LNJEfCpI-4S8PM2Tw" id="(0.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Imdf8bNJEfCpI-4S8PM2Tw" id="(0.9937888198757764,0.38333333333333336)"/>
@@ -448,7 +448,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_OLNh9rNJEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_OLNh8bNJEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_OLIpcLNJEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_OLIpcLNJEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_OLNh8rNJEfCpI-4S8PM2Tw" points="[150, 180, -643984, -643984]$[340, 431, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OL43YLNJEfCpI-4S8PM2Tw" id="(1.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OL43YbNJEfCpI-4S8PM2Tw" id="(0.0,0.32786885245901637)"/>
@@ -463,7 +463,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_VYzKA7NJEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_VYyi8bNJEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_VYu4kLNJEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_VYu4kLNJEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VYyi8rNJEfCpI-4S8PM2Tw" points="[638, 300, -643984, -643984]$[480, -32, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VZl0MLNJEfCpI-4S8PM2Tw" id="(0.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VZl0MbNJEfCpI-4S8PM2Tw" id="(0.8974358974358975,0.8333333333333334)"/>
@@ -478,7 +478,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_Yrx9s7NJEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_YrxWobNJEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_YrtFMLNJEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_YrtFMLNJEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YrxWorNJEfCpI-4S8PM2Tw" points="[-15, -12, 362, 124]$[-161, -227, 216, -91]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ysbd8LNJEfCpI-4S8PM2Tw" id="(0.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ysbd8bNJEfCpI-4S8PM2Tw" id="(1.0,0.6557377049180327)"/>
@@ -493,7 +493,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_fHxJs7NJEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_fHwiobNJEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_fHs4QLNJEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_fHs4QLNJEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fHwiorNJEfCpI-4S8PM2Tw" points="[427, 374, -643984, -643984]$[563, 417, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fIZb0LNJEfCpI-4S8PM2Tw" id="(1.0,0.5666666666666667)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fIZb0bNJEfCpI-4S8PM2Tw" id="(0.0,0.8)"/>
@@ -508,7 +508,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_kppd5rNJEfCpI-4S8PM2Tw" y="-19"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_kppd4bNJEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Association" href="PRACTICLE%20EXCERCISE.uml#_kpklYLNJEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Association" href="Acitvity%20Diagram.uml#_kpklYLNJEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kppd4rNJEfCpI-4S8PM2Tw" points="[-15, -9, 337, -225]$[-146, 120, 206, -96]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kqZEwLNJEfCpI-4S8PM2Tw" id="(0.0,0.8)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kqZEwbNJEfCpI-4S8PM2Tw" id="(1.0,0.32786885245901637)"/>
@@ -523,7 +523,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_JbqNJrNKEfCpI-4S8PM2Tw" x="-1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_JbqNIbNKEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Include" href="PRACTICLE%20EXCERCISE.uml#_JbX5QLNKEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Include" href="Acitvity%20Diagram.uml#_JbX5QLNKEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JbqNIrNKEfCpI-4S8PM2Tw" points="[491, -60, -643984, -643984]$[540, -50, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JcZ0ALNKEfCpI-4S8PM2Tw" id="(0.967948717948718,0.3333333333333333)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JcZ0AbNKEfCpI-4S8PM2Tw" id="(0.0,0.4918032786885246)"/>
@@ -538,7 +538,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="__fnI1rNLEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="__fnI0bNLEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Include" href="PRACTICLE%20EXCERCISE.uml#__fRxoLNLEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Include" href="Acitvity%20Diagram.uml#__fRxoLNLEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="__fnI0rNLEfCpI-4S8PM2Tw" points="[440, 80, -643984, -643984]$[460, 141, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="__gTFULNLEfCpI-4S8PM2Tw" id="(0.5952380952380952,0.9836065573770492)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="__gTsYLNLEfCpI-4S8PM2Tw" id="(0.3305785123966942,0.01639344262295082)"/>
@@ -553,7 +553,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_AuCDxrNMEfCpI-4S8PM2Tw" y="-19"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_AuCDwbNMEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Include" href="PRACTICLE%20EXCERCISE.uml#_Atq3YLNMEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Include" href="Acitvity%20Diagram.uml#_Atq3YLNMEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AuCDwrNMEfCpI-4S8PM2Tw" points="[360, 530, -643984, -643984]$[320, 563, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Au3xQLNMEfCpI-4S8PM2Tw" id="(0.12422360248447205,0.819672131147541)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Au4YULNMEfCpI-4S8PM2Tw" id="(0.7142857142857143,0.03333333333333333)"/>
@@ -568,7 +568,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_Bu8HJrNMEfCpI-4S8PM2Tw" x="1" y="-17"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_Bu8HIbNMEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Include" href="PRACTICLE%20EXCERCISE.uml#_BuolILNMEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Include" href="Acitvity%20Diagram.uml#_BuolILNMEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Bu8HIrNMEfCpI-4S8PM2Tw" points="[480, 531, -643984, -643984]$[540, 562, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BvpRwLNMEfCpI-4S8PM2Tw" id="(0.8695652173913043,0.8360655737704918)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BvpRwbNMEfCpI-4S8PM2Tw" id="(0.2857142857142857,0.03333333333333333)"/>
@@ -583,7 +583,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_RXphZrNMEfCpI-4S8PM2Tw" x="-1" y="-19"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_RXphYbNMEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Extend" href="PRACTICLE%20EXCERCISE.uml#_RXS8ELNMEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Extend" href="Acitvity%20Diagram.uml#_RXS8ELNMEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RXphYrNMEfCpI-4S8PM2Tw" points="[440, 540, -643984, -643984]$[430, 580, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RYZvULNMEfCpI-4S8PM2Tw" id="(0.6211180124223602,0.9836065573770492)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RYZvUbNMEfCpI-4S8PM2Tw" id="(0.5,0.0)"/>
@@ -598,7 +598,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_wotJgbNMEfCpI-4S8PM2Tw" x="1" y="-18"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_wosicbNMEfCpI-4S8PM2Tw"/>
-      <element xmi:type="uml:Extend" href="PRACTICLE%20EXCERCISE.uml#_woVWELNMEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Extend" href="Acitvity%20Diagram.uml#_woVWELNMEfCpI-4S8PM2Tw"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wosicrNMEfCpI-4S8PM2Tw" points="[364, 380, -643984, -643984]$[380, 440, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wpjeELNMEfCpI-4S8PM2Tw" id="(0.391304347826087,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wpjeEbNMEfCpI-4S8PM2Tw" id="(0.0,0.38333333333333336)"/>
@@ -637,7 +637,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_fmzOorilEfCpI-4S8PM2Tw" type="InitialNode_StereotypeLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_fmzOo7ilEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:InitialNode" href="PRACTICLE%20EXCERCISE.uml#_fmqrwLilEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:InitialNode" href="Acitvity%20Diagram.uml#_fmqrwLilEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fmynkbilEfCpI-4S8PM2Tw" x="114" y="19" width="41" height="41"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_6lC9wLilEfCpI-4S8PM2Tw" type="OpaqueAction_Shape">
@@ -645,7 +645,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_6lDk0bilEfCpI-4S8PM2Tw" type="OpaqueAction_FloatingNameLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_6lDk0rilEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:OpaqueAction" href="PRACTICLE%20EXCERCISE.uml#_6kdH4LilEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:OpaqueAction" href="Acitvity%20Diagram.uml#_6kdH4LilEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6lEL4LilEfCpI-4S8PM2Tw" x="94" y="99"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_MHE0oLinEfCpI-4S8PM2Tw" type="OpaqueAction_Shape">
@@ -653,7 +653,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_MHGp0LinEfCpI-4S8PM2Tw" type="OpaqueAction_FloatingNameLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_MHGp0binEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:OpaqueAction" href="PRACTICLE%20EXCERCISE.uml#_MGatULinEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:OpaqueAction" href="Acitvity%20Diagram.uml#_MGatULinEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MHGp0rinEfCpI-4S8PM2Tw" x="94" y="179"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_SWVzQLinEfCpI-4S8PM2Tw" type="OpaqueAction_Shape">
@@ -661,7 +661,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_SWVzQ7inEfCpI-4S8PM2Tw" type="OpaqueAction_FloatingNameLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_SWVzRLinEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:OpaqueAction" href="PRACTICLE%20EXCERCISE.uml#_SWK0ILinEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:OpaqueAction" href="Acitvity%20Diagram.uml#_SWK0ILinEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SWVzRbinEfCpI-4S8PM2Tw" x="94" y="259"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_b3LQULinEfCpI-4S8PM2Tw" type="OpaqueAction_Shape">
@@ -669,7 +669,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_b3L3YbinEfCpI-4S8PM2Tw" type="OpaqueAction_FloatingNameLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_b3L3YrinEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:OpaqueAction" href="PRACTICLE%20EXCERCISE.uml#_b3BfULinEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:OpaqueAction" href="Acitvity%20Diagram.uml#_b3BfULinEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b3L3Y7inEfCpI-4S8PM2Tw" x="94" y="339"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_0U15ELinEfCpI-4S8PM2Tw" type="DecisionNode_Shape">
@@ -682,7 +682,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_0U15FrinEfCpI-4S8PM2Tw" type="DecisionNode_StereotypeLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_0U15F7inEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:DecisionNode" href="PRACTICLE%20EXCERCISE.uml#_0Un2oLinEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:DecisionNode" href="Acitvity%20Diagram.uml#_0Un2oLinEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0U15EbinEfCpI-4S8PM2Tw" x="114" y="419" width="81" height="81"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_NFDDULioEfCpI-4S8PM2Tw" type="DecisionNode_Shape">
@@ -695,7 +695,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_NFDDVrioEfCpI-4S8PM2Tw" type="DecisionNode_StereotypeLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_NFDDV7ioEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:DecisionNode" href="PRACTICLE%20EXCERCISE.uml#_NE2PALioEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:DecisionNode" href="Acitvity%20Diagram.uml#_NE2PALioEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NFDDUbioEfCpI-4S8PM2Tw" x="114" y="539" width="81" height="89"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_YZcIsLioEfCpI-4S8PM2Tw" type="FlowFinalNode_Shape">
@@ -705,7 +705,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_YZcvwbioEfCpI-4S8PM2Tw" type="FlowFinalNode_StereotypeLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_YZcvwrioEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:FlowFinalNode" href="PRACTICLE%20EXCERCISE.uml#_YZNfMLioEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:FlowFinalNode" href="Acitvity%20Diagram.uml#_YZNfMLioEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YZcIsbioEfCpI-4S8PM2Tw" x="134" y="679" width="41" height="41"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_jXejkLioEfCpI-4S8PM2Tw" type="ActivityFinalNode_Shape">
@@ -715,12 +715,12 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_jXejlLioEfCpI-4S8PM2Tw" type="ActivityFinalNode_StereotypeLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_jXejlbioEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:ActivityFinalNode" href="PRACTICLE%20EXCERCISE.uml#_jXRIMLioEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:ActivityFinalNode" href="Acitvity%20Diagram.uml#_jXRIMLioEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jXejkbioEfCpI-4S8PM2Tw" x="134" y="779" width="46" height="33"/>
             </children>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_66JghrikEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:ActivityPartition" href="PRACTICLE%20EXCERCISE.uml#_66Cy0LikEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:ActivityPartition" href="Acitvity%20Diagram.uml#_66Cy0LikEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_66JggbikEfCpI-4S8PM2Tw" x="75" y="68" width="341" height="881"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_M4MacLilEfCpI-4S8PM2Tw" type="ActivityPartition_Shape">
@@ -734,7 +734,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_yNi_87ioEfCpI-4S8PM2Tw" type="OpaqueAction_FloatingNameLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_yNi_9LioEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:OpaqueAction" href="PRACTICLE%20EXCERCISE.uml#_yNTvYLioEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:OpaqueAction" href="Acitvity%20Diagram.uml#_yNTvYLioEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yNi_9bioEfCpI-4S8PM2Tw" x="134" y="19"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_38kYQLioEfCpI-4S8PM2Tw" type="OpaqueAction_Shape">
@@ -742,7 +742,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_38k_UbioEfCpI-4S8PM2Tw" type="OpaqueAction_FloatingNameLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_38k_UrioEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:OpaqueAction" href="PRACTICLE%20EXCERCISE.uml#_38VuwLioEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:OpaqueAction" href="Acitvity%20Diagram.uml#_38VuwLioEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_38k_U7ioEfCpI-4S8PM2Tw" x="134" y="119"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_WmkAYLipEfCpI-4S8PM2Tw" type="DecisionNode_Shape">
@@ -755,12 +755,12 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_WmkndLipEfCpI-4S8PM2Tw" type="DecisionNode_StereotypeLabel">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_WmkndbipEfCpI-4S8PM2Tw" y="15"/>
               </children>
-              <element xmi:type="uml:DecisionNode" href="PRACTICLE%20EXCERCISE.uml#_WmQeYLipEfCpI-4S8PM2Tw"/>
+              <element xmi:type="uml:DecisionNode" href="Acitvity%20Diagram.uml#_WmQeYLipEfCpI-4S8PM2Tw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WmkAYbipEfCpI-4S8PM2Tw" x="134" y="219" width="101" height="101"/>
             </children>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M4NBhLilEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:ActivityPartition" href="PRACTICLE%20EXCERCISE.uml#_M4FFsLilEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:ActivityPartition" href="Acitvity%20Diagram.uml#_M4FFsLilEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M4MacbilEfCpI-4S8PM2Tw" x="575" y="68" width="441" height="781"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_S34E8LilEfCpI-4S8PM2Tw" type="ActivityPartition_Shape">
@@ -771,19 +771,19 @@
           <children xmi:type="notation:BasicCompartment" xmi:id="_S34sA7ilEfCpI-4S8PM2Tw" type="ActivityPartition_ActivityNodeCompartment">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S34sBLilEfCpI-4S8PM2Tw"/>
           </children>
-          <element xmi:type="uml:ActivityPartition" href="PRACTICLE%20EXCERCISE.uml#_S3u7ALilEfCpI-4S8PM2Tw"/>
+          <element xmi:type="uml:ActivityPartition" href="Acitvity%20Diagram.uml#_S3u7ALilEfCpI-4S8PM2Tw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S34E8bilEfCpI-4S8PM2Tw" x="1075" y="68" width="301" height="521"/>
         </children>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AWx0bikEfCpI-4S8PM2Tw"/>
       </children>
-      <element xmi:type="uml:Activity" href="PRACTICLE%20EXCERCISE.uml#_4g_QwLikEfCpI-4S8PM2Tw"/>
+      <element xmi:type="uml:Activity" href="Acitvity%20Diagram.uml#_4g_QwLikEfCpI-4S8PM2Tw"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AWx0rikEfCpI-4S8PM2Tw"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_6AWx07ikEfCpI-4S8PM2Tw" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_6AWx1LikEfCpI-4S8PM2Tw"/>
     <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_6AWx1bikEfCpI-4S8PM2Tw" diagramKindId="org.eclipse.papyrus.uml.diagram.activity">
-      <owner xmi:type="uml:Model" href="PRACTICLE%20EXCERCISE.uml#_j7F14KLOEfCpI-4S8PM2Tw"/>
+      <owner xmi:type="uml:Model" href="Acitvity%20Diagram.uml#_j7F14KLOEfCpI-4S8PM2Tw"/>
     </styles>
-    <element xmi:type="uml:Activity" href="PRACTICLE%20EXCERCISE.uml#_4g_QwLikEfCpI-4S8PM2Tw"/>
+    <element xmi:type="uml:Activity" href="Acitvity%20Diagram.uml#_4g_QwLikEfCpI-4S8PM2Tw"/>
   </notation:Diagram>
 </xmi:XMI>
