@@ -215,7 +215,7 @@
     <node xmi:type="uml:OpaqueAction" xmi:id="_YPfT8LjTEfCpI-4S8PM2Tw" name="Process Payment " incoming="_WxYG8LoiEfCpI-4S8PM2Tw" outgoing="_YV_7YLoiEfCpI-4S8PM2Tw" inPartition="_S3u7ALilEfCpI-4S8PM2Tw"/>
     <node xmi:type="uml:DecisionNode" xmi:id="_d7WqkLjTEfCpI-4S8PM2Tw" name="Payment Succesful?" incoming="_YV_7YLoiEfCpI-4S8PM2Tw" outgoing="_VK9_QLohEfCpI-4S8PM2Tw _iyQe4LoiEfCpI-4S8PM2Tw _1s15kLoiEfCpI-4S8PM2Tw" inPartition="_S3u7ALilEfCpI-4S8PM2Tw"/>
     <node xmi:type="uml:OpaqueAction" xmi:id="_kkZbILjTEfCpI-4S8PM2Tw" name="Generate E-Ticket &amp; Confirmation Data" incoming="_iyQe4LoiEfCpI-4S8PM2Tw" outgoing="_O8sNMLojEfCpI-4S8PM2Tw" inPartition="_S3u7ALilEfCpI-4S8PM2Tw"/>
-    <node xmi:type="uml:OpaqueAction" xmi:id="_q6D8sLjTEfCpI-4S8PM2Tw" name="Return Payment Failure to USU App" incoming="_1s15kLoiEfCpI-4S8PM2Tw" outgoing="_ZdxmULojEfCpI-4S8PM2Tw" inPartition="_S3u7ALilEfCpI-4S8PM2Tw"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_q6D8sLjTEfCpI-4S8PM2Tw" name="Return Payment Failure " incoming="_1s15kLoiEfCpI-4S8PM2Tw" outgoing="_ZdxmULojEfCpI-4S8PM2Tw" inPartition="_S3u7ALilEfCpI-4S8PM2Tw"/>
     <node xmi:type="uml:OpaqueAction" xmi:id="_cxyWQLjaEfCpI-4S8PM2Tw" name="Search Event / Apply Filters" incoming="_5N3cMLoVEfCpI-4S8PM2Tw" outgoing="_Dfe18LoWEfCpI-4S8PM2Tw" inPartition="_66Cy0LikEfCpI-4S8PM2Tw"/>
     <node xmi:type="uml:DecisionNode" xmi:id="_HzwdoLoNEfCpI-4S8PM2Tw" name="Retry payment?" incoming="_ZdxmULojEfCpI-4S8PM2Tw" outgoing="_9sPIILoZEfCpI-4S8PM2Tw _kRKXwLogEfCpI-4S8PM2Tw" inPartition="_66Cy0LikEfCpI-4S8PM2Tw"/>
     <node xmi:type="uml:ActivityFinalNode" xmi:id="_SSOLILoOEfCpI-4S8PM2Tw" name="Registration Complete (Free)" incoming="_IrcHALoiEfCpI-4S8PM2Tw" inPartition="_M4FFsLilEfCpI-4S8PM2Tw"/>
