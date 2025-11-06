@@ -238,4 +238,81 @@
     <node xmi:type="uml:ActivityFinalNode" xmi:id="_JYUmsLoYEfCpI-4S8PM2Tw" name="Ticket Purchase Complete" incoming="_Q-WYYLoiEfCpI-4S8PM2Tw" inPartition="_M4FFsLilEfCpI-4S8PM2Tw"/>
     <node xmi:type="uml:FlowFinalNode" xmi:id="_Jy6agLokEfCpI-4S8PM2Tw" name="" incoming="_OLHJ0LokEfCpI-4S8PM2Tw" inPartition="_M4FFsLilEfCpI-4S8PM2Tw"/>
   </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_KUrGILpYEfCpI-4S8PM2Tw" name="login">
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_lY3FMLpYEfCpI-4S8PM2Tw" name="Operation1"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_S0TCMLp2EfCpI-4S8PM2Tw" name="USU Student App">
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_CzqFULsUEfCpI-4S8PM2Tw" name="StudentDataSync"/>
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_pNd40LsUEfCpI-4S8PM2Tw" name="UserValidation"/>
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_FCrFILsVEfCpI-4S8PM2Tw" name="EventPaymentSync"/>
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_1UVukLsVEfCpI-4S8PM2Tw" name="EventUpdatNotifer"/>
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_LL_XULsWEfCpI-4S8PM2Tw" name="PushNotification"/>
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_qHgzULshEfCpI-4S8PM2Tw" name="SubscribeEvent"/>
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_7hUnsLs1EfCpI-4S8PM2Tw" name="Login"/>
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_Y9B3wLs2EfCpI-4S8PM2Tw" name="ViewEvents"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_pHRVALp2EfCpI-4S8PM2Tw" name="Student GUI">
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_f4n-cLsWEfCpI-4S8PM2Tw" client="_pHRVALp2EfCpI-4S8PM2Tw" supplier="_LL_XULsWEfCpI-4S8PM2Tw" contract="_LL_XULsWEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_BKVeoLs2EfCpI-4S8PM2Tw" client="_pHRVALp2EfCpI-4S8PM2Tw" supplier="_7hUnsLs1EfCpI-4S8PM2Tw" contract="_7hUnsLs1EfCpI-4S8PM2Tw"/>
+      <packagedElement xmi:type="uml:Component" xmi:id="_wwrWYLp2EfCpI-4S8PM2Tw" name="Student GUI"/>
+      <packagedElement xmi:type="uml:Component" xmi:id="_zk0R8Lp2EfCpI-4S8PM2Tw" name="CopyOf_Student GUI_1"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Component" xmi:id="_0pRYkLp2EfCpI-4S8PM2Tw" name="Authentication &amp; Registration Manager">
+      <ownedAttribute xmi:type="uml:Port" xmi:id="_5cd-kLs2EfCpI-4S8PM2Tw" name="ValidateRegistration" aggregation="composite"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_Qq_okLsUEfCpI-4S8PM2Tw" client="_0pRYkLp2EfCpI-4S8PM2Tw" supplier="_CzqFULsUEfCpI-4S8PM2Tw" contract="_CzqFULsUEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_3g3F8LsUEfCpI-4S8PM2Tw" client="_0pRYkLp2EfCpI-4S8PM2Tw" supplier="_pNd40LsUEfCpI-4S8PM2Tw" contract="_pNd40LsUEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_CQWrgLs2EfCpI-4S8PM2Tw" client="_0pRYkLp2EfCpI-4S8PM2Tw" supplier="_7hUnsLs1EfCpI-4S8PM2Tw" contract="_7hUnsLs1EfCpI-4S8PM2Tw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Component" xmi:id="_RRbr0Lp3EfCpI-4S8PM2Tw" name="Event Manager">
+      <ownedAttribute xmi:type="uml:Port" xmi:id="_KyWFQLs3EfCpI-4S8PM2Tw" name="RetrieveEventDetails" aggregation="composite"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_8_AwsLsUEfCpI-4S8PM2Tw" client="_RRbr0Lp3EfCpI-4S8PM2Tw" supplier="_pNd40LsUEfCpI-4S8PM2Tw" contract="_pNd40LsUEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_p6XloLsVEfCpI-4S8PM2Tw" client="_RRbr0Lp3EfCpI-4S8PM2Tw" supplier="_FCrFILsVEfCpI-4S8PM2Tw" contract="_FCrFILsVEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="__GeXALsVEfCpI-4S8PM2Tw" client="_RRbr0Lp3EfCpI-4S8PM2Tw" supplier="_1UVukLsVEfCpI-4S8PM2Tw" contract="_1UVukLsVEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_g22TsLs2EfCpI-4S8PM2Tw" client="_RRbr0Lp3EfCpI-4S8PM2Tw" supplier="_Y9B3wLs2EfCpI-4S8PM2Tw" contract="_Y9B3wLs2EfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_sk2L4Ls2EfCpI-4S8PM2Tw" client="_RRbr0Lp3EfCpI-4S8PM2Tw" supplier="_qHgzULshEfCpI-4S8PM2Tw" contract="_qHgzULshEfCpI-4S8PM2Tw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Component" xmi:id="_Ts96ILp3EfCpI-4S8PM2Tw" name="Payment Handler">
+      <ownedAttribute xmi:type="uml:Port" xmi:id="_c-CZoLs3EfCpI-4S8PM2Tw" name="ProcessPayment" aggregation="composite"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_skKSYLsVEfCpI-4S8PM2Tw" client="_Ts96ILp3EfCpI-4S8PM2Tw" supplier="_FCrFILsVEfCpI-4S8PM2Tw" contract="_FCrFILsVEfCpI-4S8PM2Tw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Component" xmi:id="_USr2ULp3EfCpI-4S8PM2Tw" name="Notification &amp; Subscription Manager">
+      <ownedAttribute xmi:type="uml:Port" xmi:id="_mkn5YLs3EfCpI-4S8PM2Tw" name="SendNotification" aggregation="composite"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_FQ548LsWEfCpI-4S8PM2Tw" client="_USr2ULp3EfCpI-4S8PM2Tw" supplier="_1UVukLsVEfCpI-4S8PM2Tw" contract="_1UVukLsVEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_Zfn1ALsWEfCpI-4S8PM2Tw" client="_USr2ULp3EfCpI-4S8PM2Tw" supplier="_LL_XULsWEfCpI-4S8PM2Tw" contract="_LL_XULsWEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_xLvEALshEfCpI-4S8PM2Tw" client="_USr2ULp3EfCpI-4S8PM2Tw" supplier="_qHgzULshEfCpI-4S8PM2Tw" contract="_qHgzULshEfCpI-4S8PM2Tw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Component" xmi:id="_0RyXULsTEfCpI-4S8PM2Tw" name="Student Profile Manager">
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_SFR1QLsUEfCpI-4S8PM2Tw" client="_0RyXULsTEfCpI-4S8PM2Tw" supplier="_CzqFULsUEfCpI-4S8PM2Tw" contract="_CzqFULsUEfCpI-4S8PM2Tw"/>
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_f5bCILs2EfCpI-4S8PM2Tw" client="_0RyXULsTEfCpI-4S8PM2Tw" supplier="_Y9B3wLs2EfCpI-4S8PM2Tw" contract="_Y9B3wLs2EfCpI-4S8PM2Tw"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_YTJQgLp2EfCpI-4S8PM2Tw" name="Externel System">
+    <packagedElement xmi:type="uml:Component" xmi:id="_qEFtILp3EfCpI-4S8PM2Tw" name="University IT System">
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_tlr5cLsYEfCpI-4S8PM2Tw" client="_qEFtILp3EfCpI-4S8PM2Tw" supplier="_O2_XgLsYEfCpI-4S8PM2Tw" contract="_O2_XgLsYEfCpI-4S8PM2Tw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Component" xmi:id="_qhgB4Lp3EfCpI-4S8PM2Tw" name="Payment Gateway">
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_GLFscLsaEfCpI-4S8PM2Tw" client="_qhgB4Lp3EfCpI-4S8PM2Tw" supplier="__XGQILsZEfCpI-4S8PM2Tw" contract="__XGQILsZEfCpI-4S8PM2Tw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Component" xmi:id="_rJNiILp3EfCpI-4S8PM2Tw" name="Notification Service">
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_aqDrALsaEfCpI-4S8PM2Tw" client="_rJNiILp3EfCpI-4S8PM2Tw" supplier="_VFKfELsaEfCpI-4S8PM2Tw" contract="_VFKfELsaEfCpI-4S8PM2Tw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Component" xmi:id="_5vjgcLp3EfCpI-4S8PM2Tw" name="Event Database">
+      <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_hfg8YLsZEfCpI-4S8PM2Tw" client="_5vjgcLp3EfCpI-4S8PM2Tw" supplier="_XljNoLsZEfCpI-4S8PM2Tw" contract="_XljNoLsZEfCpI-4S8PM2Tw"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_lOASQLsXEfCpI-4S8PM2Tw" name=""/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_O2_XgLsYEfCpI-4S8PM2Tw" name="ValidateRegistration"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_ciCLMLsYEfCpI-4S8PM2Tw" client="_lOASQLsXEfCpI-4S8PM2Tw" supplier="_O2_XgLsYEfCpI-4S8PM2Tw"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_IDhqMLsZEfCpI-4S8PM2Tw" name=""/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_XljNoLsZEfCpI-4S8PM2Tw" name="RetrieveEventDetails"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_a0rcELsZEfCpI-4S8PM2Tw" client="_IDhqMLsZEfCpI-4S8PM2Tw" supplier="_XljNoLsZEfCpI-4S8PM2Tw"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_1kjYALsZEfCpI-4S8PM2Tw" name=""/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="__XGQILsZEfCpI-4S8PM2Tw" name="ProcessPayment"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_B5XYkLsaEfCpI-4S8PM2Tw" client="_1kjYALsZEfCpI-4S8PM2Tw" supplier="__XGQILsZEfCpI-4S8PM2Tw"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_Jq73cLsaEfCpI-4S8PM2Tw" name=""/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_VFKfELsaEfCpI-4S8PM2Tw" name="SendNotification"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_XglYoLsaEfCpI-4S8PM2Tw" client="_Jq73cLsaEfCpI-4S8PM2Tw" supplier="_VFKfELsaEfCpI-4S8PM2Tw"/>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_A8LRYLs3EfCpI-4S8PM2Tw" client="_5cd-kLs2EfCpI-4S8PM2Tw" supplier="_lOASQLsXEfCpI-4S8PM2Tw"/>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_RPvmgLs3EfCpI-4S8PM2Tw" client="_KyWFQLs3EfCpI-4S8PM2Tw" supplier="_IDhqMLsZEfCpI-4S8PM2Tw"/>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_fg9pYLs3EfCpI-4S8PM2Tw" client="_c-CZoLs3EfCpI-4S8PM2Tw" supplier="_1kjYALsZEfCpI-4S8PM2Tw"/>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_pXnlcLs3EfCpI-4S8PM2Tw" client="_mkn5YLs3EfCpI-4S8PM2Tw" supplier="_Jq73cLsaEfCpI-4S8PM2Tw"/>
 </uml:Model>
