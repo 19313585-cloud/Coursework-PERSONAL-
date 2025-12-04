@@ -325,7 +325,7 @@
   <packagedElement xmi:type="uml:Usage" xmi:id="_5w1qUMRxEfCLXIH4cmq-Pw" client="_1JJtgMRxEfCLXIH4cmq-Pw" supplier="_1kjYALsZEfCpI-4S8PM2Tw"/>
   <packagedElement xmi:type="uml:Usage" xmi:id="_Ql-2EMRyEfCLXIH4cmq-Pw" client="_N43IgMRyEfCLXIH4cmq-Pw" supplier="_j7F14KLOEfCpI-4S8PM2Tw"/>
   <packagedElement xmi:type="uml:Dependency" xmi:id="_TSdqcMRyEfCLXIH4cmq-Pw" client="_mkn5YLs3EfCpI-4S8PM2Tw" supplier="_N43IgMRyEfCLXIH4cmq-Pw"/>
-  <packagedElement xmi:type="uml:Class" xmi:id="_Y0_X4ND0EfC93YrX3gkP2A" name="EventManager">
+  <packagedElement xmi:type="uml:Class" xmi:id="_Y0_X4ND0EfC93YrX3gkP2A" name="EventManagerServices">
     <ownedAttribute xmi:type="uml:Property" xmi:id="_1EduQtEIEfC93YrX3gkP2A" name="paymenthandler" type="_nocx4NEEEfC93YrX3gkP2A" association="_1Eb5ENEIEfC93YrX3gkP2A">
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="__K7n8NEIEfC93YrX3gkP2A" name="LiteralInteger1" value="1"/>
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__K7n8dEIEfC93YrX3gkP2A" name="LiteralUnlimitedNatural1" value="1"/>
@@ -406,17 +406,6 @@
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
     </ownedAttribute>
     <ownedAttribute xmi:type="uml:Property" xmi:id="__0ctwNECEfC93YrX3gkP2A" name="RegistrationDateAndTime">
-      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Real"/>
-    </ownedAttribute>
-  </packagedElement>
-  <packagedElement xmi:type="uml:Class" xmi:id="_Q0ixsNEDEfC93YrX3gkP2A" name="SearchCriteria">
-    <ownedAttribute xmi:type="uml:Property" xmi:id="_pN3tANEDEfC93YrX3gkP2A" name="Text">
-      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-    </ownedAttribute>
-    <ownedAttribute xmi:type="uml:Property" xmi:id="_9PFYkNEDEfC93YrX3gkP2A" name="DateFrom">
-      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Real"/>
-    </ownedAttribute>
-    <ownedAttribute xmi:type="uml:Property" xmi:id="_FbNFcNEEEfC93YrX3gkP2A" name="DateTo">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Real"/>
     </ownedAttribute>
   </packagedElement>
@@ -510,6 +499,7 @@
     </eAnnotations>
     <ownedEnd xmi:type="uml:Property" xmi:id="_TnwKEtEMEfC93YrX3gkP2A" name="event" type="_f3Jc8ND9EfC93YrX3gkP2A" association="_Tntt0NEMEfC93YrX3gkP2A"/>
   </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_VHSNsNENEfC93YrX3gkP2A" client="_Y0_X4ND0EfC93YrX3gkP2A" supplier="_Lms-YNEEEfC93YrX3gkP2A"/>
   <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_DN4ecMRwEfCLXIH4cmq-Pw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DN8I0MRwEfCLXIH4cmq-Pw" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#_Kv8EIKFXEeS_KNX0nfvIVQ"/>
